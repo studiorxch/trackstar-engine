@@ -1,10 +1,10 @@
 .DS_Store
-# audio & big stuff kept out of Git
 *.wav
 *.flac
 *.aiff
 *.mp3
 *.ogg
-_audio/
-bundles/
 exports/
+bundles/
+_audio/
+**/:archive/
